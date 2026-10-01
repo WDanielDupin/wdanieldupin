@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**WDanielDupin/wdanieldupin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Economist and CTO at [Galidor Research](https://galidorresearch.com), 
+where I work on data science, software development, analytics and automation.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Background in Economics and financial markets
+- 🧠 Interested in Data Science, quantitative analysis, statistical analysis and software engineering
+- 📊 R / 🦀 Rust / JavaScript / SQL / 🐍 Python
+- ⛽ Building analytical software for the fuel-retail industry
+
+## What I work with
+
+**Data Science & Analytics**
+- R
+- Python
+- SQL
+- Big Data
+- Statistical and quantitative modeling
+- Business Intelligence
+
+**Software Engineering**
+- Rust
+- R
+- JavaScript
+- Tailwind CSS
+- APIs
+- Shiny
+- Automation
+- Data pipelines
+
+## Current projects
+
+### Kaizen Bot
+
+An analytical software developed by Galidor Research for fuel stations,
+focused on financial and operational analytics.
+
+🌐 [kaizenbot.ai](https://kaizenbot.ai)
+
+---
+
+> Building software and analytical systems where economics, data and engineering meet.
